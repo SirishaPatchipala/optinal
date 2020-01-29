@@ -1,0 +1,2175 @@
+MATERIAL DATABASE EXPORT VERSION = 1
+
+MATERIAL_NAME = "43"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "43A"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "43C"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "50"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              3.450000E+008
+    BS.ULTIMATE_STRENGTH           5.000000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "55"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              3.900000E+008
+    BS.ULTIMATE_STRENGTH           5.500000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "AISI304"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             0
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "AISI316"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             0
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "FE50"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              3.450000E+008
+    BS.ULTIMATE_STRENGTH           5.000000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "FE360B"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.800000E+003
+    PLATE_DENSITY                  7.800000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.250000E+008
+    BS.ULTIMATE_STRENGTH           3.600000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "FE430"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "FE510"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              3.350000E+008
+    BS.ULTIMATE_STRENGTH           5.100000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "Gr 8.8"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             0
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "Q235"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             0
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "Q345"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S 275"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.705500E+003
+    PLATE_DENSITY                  7.705500E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S235"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.350000E+008
+    BS.ULTIMATE_STRENGTH           3.600000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S235J0"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe360C"
+    ALIAS_NAME2                    "St37-3U"
+    ALIAS_NAME3                    "40C"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.350000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.350000E+008
+    EC3.FY_40_TO_100_MM            2.150000E+008
+    EC3.FU_UNDER_40_MM             3.600000E+008
+    EC3.FU_40_TO_100_MM            3.400000E+008
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S235J2G3"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe360D1"
+    ALIAS_NAME2                    "St37-3N"
+    ALIAS_NAME3                    "40D"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.350000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.350000E+008
+    EC3.FY_40_TO_100_MM            2.150000E+008
+    EC3.FU_UNDER_40_MM             3.600000E+008
+    EC3.FU_40_TO_100_MM            3.400000E+008
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S235J2G4"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe360D2"
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.350000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.350000E+008
+    EC3.FY_40_TO_100_MM            2.150000E+008
+    EC3.FU_UNDER_40_MM             3.600000E+008
+    EC3.FU_40_TO_100_MM            3.400000E+008
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S235JR"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe360B"
+    ALIAS_NAME2                    "St37-2"
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.350000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.350000E+008
+    EC3.FY_40_TO_100_MM            2.150000E+008
+    EC3.FU_UNDER_40_MM             3.600000E+008
+    EC3.FU_40_TO_100_MM            3.400000E+008
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S235JRG1"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe360BFU"
+    ALIAS_NAME2                    "USt37-2"
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.350000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.350000E+008
+    EC3.FY_40_TO_100_MM            2.150000E+008
+    EC3.FU_UNDER_40_MM             3.600000E+008
+    EC3.FU_40_TO_100_MM            3.400000E+008
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S235JRG2"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe360BFN"
+    ALIAS_NAME2                    "RSt37-2"
+    ALIAS_NAME3                    "40B"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.350000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.350000E+008
+    EC3.FY_40_TO_100_MM            2.150000E+008
+    EC3.FU_UNDER_40_MM             3.600000E+008
+    EC3.FU_40_TO_100_MM            3.400000E+008
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S275"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S275-J0"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S275-J2"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S275-J2H"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S275-JR"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S275J0"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe430C"
+    ALIAS_NAME2                    "St44-3U"
+    ALIAS_NAME3                    "43C"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.750000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.750000E+008
+    EC3.FY_40_TO_100_MM            2.550000E+008
+    EC3.FU_UNDER_40_MM             4.300000E+008
+    EC3.FU_40_TO_100_MM            4.100000E+008
+    EC3.STEEL_GRADE                1
+};
+
+MATERIAL_NAME = "S275J2G3"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe430D1"
+    ALIAS_NAME2                    "St44-3N"
+    ALIAS_NAME3                    "43D"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.750000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.750000E+008
+    EC3.FY_40_TO_100_MM            2.550000E+008
+    EC3.FU_UNDER_40_MM             4.300000E+008
+    EC3.FU_40_TO_100_MM            4.100000E+008
+    EC3.STEEL_GRADE                1
+};
+
+MATERIAL_NAME = "S275J2G4"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe430D2"
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.750000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.750000E+008
+    EC3.FY_40_TO_100_MM            2.550000E+008
+    EC3.FU_UNDER_40_MM             4.300000E+008
+    EC3.FU_40_TO_100_MM            4.100000E+008
+    EC3.STEEL_GRADE                1
+};
+
+MATERIAL_NAME = "S275JR"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe430B"
+    ALIAS_NAME2                    "St44-2"
+    ALIAS_NAME3                    "43B"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.750000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             2.750000E+008
+    EC3.FY_40_TO_100_MM            2.550000E+008
+    EC3.FU_UNDER_40_MM             4.300000E+008
+    EC3.FU_40_TO_100_MM            4.100000E+008
+    EC3.STEEL_GRADE                1
+};
+
+MATERIAL_NAME = "S350"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.705500E+003
+    PLATE_DENSITY                  7.705500E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S350G"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              2.750000E+008
+    BS.ULTIMATE_STRENGTH           4.300000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S350GD+Z"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        2.350000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             3.500000E+008
+    EC3.FY_40_TO_100_MM            3.300000E+008
+    EC3.FU_UNDER_40_MM             5.100000E+008
+    EC3.FU_40_TO_100_MM            4.900000E+008
+    EC3.STEEL_GRADE                2
+};
+
+MATERIAL_NAME = "S355"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              3.550000E+008
+    BS.ULTIMATE_STRENGTH           5.100000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S355-J0"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S355-J2"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S355-J2H"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S355-JR"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S355-K2"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S355J0"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe510C"
+    ALIAS_NAME2                    "St52-3U"
+    ALIAS_NAME3                    "50C"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        3.550000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             3.550000E+008
+    EC3.FY_40_TO_100_MM            3.350000E+008
+    EC3.FU_UNDER_40_MM             5.100000E+008
+    EC3.FU_40_TO_100_MM            4.900000E+008
+    EC3.STEEL_GRADE                2
+};
+
+MATERIAL_NAME = "S355J2G3"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe510D1"
+    ALIAS_NAME2                    "St52-3N"
+    ALIAS_NAME3                    "50D"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        3.550000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             3.550000E+008
+    EC3.FY_40_TO_100_MM            3.350000E+008
+    EC3.FU_UNDER_40_MM             5.100000E+008
+    EC3.FU_40_TO_100_MM            4.900000E+008
+    EC3.STEEL_GRADE                2
+};
+
+MATERIAL_NAME = "S355J2G4"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe510D2"
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        3.550000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             3.550000E+008
+    EC3.FY_40_TO_100_MM            3.350000E+008
+    EC3.FU_UNDER_40_MM             5.100000E+008
+    EC3.FU_40_TO_100_MM            4.900000E+008
+    EC3.STEEL_GRADE                2
+};
+
+MATERIAL_NAME = "S355J2H"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        3.550000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             3.550000E+008
+    EC3.FY_40_TO_100_MM            3.350000E+008
+    EC3.FU_UNDER_40_MM             5.100000E+008
+    EC3.FU_40_TO_100_MM            4.900000E+008
+    EC3.STEEL_GRADE                2
+};
+
+MATERIAL_NAME = "S355JR"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe510B"
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    "50B"
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        3.550000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             3.550000E+008
+    EC3.FY_40_TO_100_MM            3.350000E+008
+    EC3.FU_UNDER_40_MM             5.100000E+008
+    EC3.FU_40_TO_100_MM            4.900000E+008
+    EC3.STEEL_GRADE                2
+};
+
+MATERIAL_NAME = "S355K2G3"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe510DD1"
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        3.550000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             3.550000E+008
+    EC3.FY_40_TO_100_MM            3.350000E+008
+    EC3.FU_UNDER_40_MM             5.100000E+008
+    EC3.FU_40_TO_100_MM            4.900000E+008
+    EC3.STEEL_GRADE                2
+};
+
+MATERIAL_NAME = "S355K2G4"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    "Fe510DD2"
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             1
+    EA95.FY                        3.550000E+008
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             3.550000E+008
+    EC3.FY_40_TO_100_MM            3.350000E+008
+    EC3.FU_UNDER_40_MM             5.100000E+008
+    EC3.FU_40_TO_100_MM            4.900000E+008
+    EC3.STEEL_GRADE                2
+};
+
+MATERIAL_NAME = "S390"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              3.900000E+008
+    BS.ULTIMATE_STRENGTH           5.500000E+008
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S460"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             0
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "S_275"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.615000E+003
+    PLATE_DENSITY                  7.615000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             3
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "Steel_Undefined"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             0
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "Z35"; MATERIAL_TYPE = 1;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.850000E+003
+    PLATE_DENSITY                  7.850000E+003
+    MODULUS_OF_ELASTICITY          2.100000E+011
+    POISSONS_RATIO                 3.000000E-001
+    THERMAL_DILATATION             1.200000E-005
+    ACTIVE_DESIGN_CODE             0
+    EA95.FY                        0.000000E+000
+    BS.YIELD_STRENGTH              0.000000E+000
+    BS.ULTIMATE_STRENGTH           0.000000E+000
+    EC3.FY_UNDER_40_MM             0.000000E+000
+    EC3.FY_40_TO_100_MM            0.000000E+000
+    EC3.FU_UNDER_40_MM             0.000000E+000
+    EC3.FU_40_TO_100_MM            0.000000E+000
+    EC3.STEEL_GRADE                0
+};
+
+MATERIAL_NAME = "C12/15"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.600000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C16/20"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.750000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C20"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          2.400000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C20/25"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.900000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C25"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447318E+003
+    PLATE_DENSITY                  2.447318E+003
+    MODULUS_OF_ELASTICITY          2.500000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C25/30"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.050000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C30"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447318E+003
+    PLATE_DENSITY                  2.447318E+003
+    MODULUS_OF_ELASTICITY          2.600000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C30/37"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.200000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C35"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447318E+003
+    PLATE_DENSITY                  2.447318E+003
+    MODULUS_OF_ELASTICITY          2.700000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C35/45"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.350000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C40"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          2.800000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C40/50"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.500000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C45/55"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.600000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C50"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447318E+003
+    PLATE_DENSITY                  2.447318E+003
+    MODULUS_OF_ELASTICITY          3.000000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C50/60"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.700000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C60"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447318E+003
+    PLATE_DENSITY                  2.447318E+003
+    MODULUS_OF_ELASTICITY          3.200000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Concrete_Undefined"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.500000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "FND2"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "FND3"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "GEN1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "GEN2"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "GEN3"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "GEN4"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Grout"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.500000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K25-1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.500000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K25-2"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.500000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K30-1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.738600E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K30-2"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.738600E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K35-1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.958000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K35-2"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          2.958000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K40-1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.162300E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K40-2"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.162300E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K50-1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.535500E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K60-1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          3.873000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K80-1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          4.472100E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "K100-1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.400000E+003
+    PLATE_DENSITY                  2.400000E+003
+    MODULUS_OF_ELASTICITY          5.000000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             1.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "PAV1"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "PAV2"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             3
+};
+
+MATERIAL_NAME = "RC30"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    "Grade 30"
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "RC35"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "RC40"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "RC45"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "RC50"; MATERIAL_TYPE = 2;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.447320E+003
+    PLATE_DENSITY                  2.447320E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C14"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.900000E+002
+    PLATE_DENSITY                  2.900000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C16"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                3.100000E+002
+    PLATE_DENSITY                  3.100000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C18"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                3.200000E+002
+    PLATE_DENSITY                  3.200000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C22"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                3.400000E+002
+    PLATE_DENSITY                  3.400000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C24"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                3.500000E+002
+    PLATE_DENSITY                  3.500000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "C27"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                3.700000E+002
+    PLATE_DENSITY                  3.700000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "D30"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                5.300000E+002
+    PLATE_DENSITY                  5.300000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "D35"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                5.300000E+002
+    PLATE_DENSITY                  5.300000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "D40"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                5.900000E+002
+    PLATE_DENSITY                  5.900000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "D50"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                6.500000E+002
+    PLATE_DENSITY                  6.500000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "D60"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.000000E+002
+    PLATE_DENSITY                  7.000000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "D70"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                9.000000E+002
+    PLATE_DENSITY                  9.000000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "TR26"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                3.700000E+002
+    PLATE_DENSITY                  3.700000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Timber_Undefined"; MATERIAL_TYPE = 5;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                6.000000E+002
+    PLATE_DENSITY                  6.000000E+002
+    MODULUS_OF_ELASTICITY          1.000000E+010
+    POISSONS_RATIO                 2.000000E-001
+    THERMAL_DILATATION             5.000000E-005
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Aluminum"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.710000E+003
+    PLATE_DENSITY                  2.710000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Bitumen"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                1.300000E+003
+    PLATE_DENSITY                  1.300000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "EPDM"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                1.400000E+003
+    PLATE_DENSITY                  1.400000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "EPDM Rubber"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                1.400000E+003
+    PLATE_DENSITY                  1.400000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Elastic putty"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                1.200000E+003
+    PLATE_DENSITY                  1.200000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Glass"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.579000E+003
+    PLATE_DENSITY                  2.579000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Gypsum"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                8.000000E+002
+    PLATE_DENSITY                  8.000000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Inseal 3259"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                1.000000E+003
+    PLATE_DENSITY                  1.000000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Insulation"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.000000E+001
+    PLATE_DENSITY                  7.000000E+001
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Insulation_hard"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                1.000000E+002
+    PLATE_DENSITY                  1.000000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Insulation_soft"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                4.000000E+001
+    PLATE_DENSITY                  4.000000E+001
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Mineral wool"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                3.000000E+001
+    PLATE_DENSITY                  3.000000E+001
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Misc_Undefined"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                0.000000E+000
+    PLATE_DENSITY                  0.000000E+000
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Neoprene"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                1.400000E+003
+    PLATE_DENSITY                  1.400000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Plywood"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                6.500000E+002
+    PLATE_DENSITY                  6.500000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Polystyrene"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                5.000000E+001
+    PLATE_DENSITY                  5.000000E+001
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Polyurethane"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                5.000000E+001
+    PLATE_DENSITY                  5.000000E+001
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Tiles"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                2.000000E+003
+    PLATE_DENSITY                  2.000000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Wood"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                5.000000E+002
+    PLATE_DENSITY                  5.000000E+002
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+MATERIAL_NAME = "Zn"; MATERIAL_TYPE = 6;
+{
+    ALIAS_NAME1                    ""
+    ALIAS_NAME2                    ""
+    ALIAS_NAME3                    ""
+    PROFILE_DENSITY                7.140000E+003
+    PLATE_DENSITY                  7.140000E+003
+    MODULUS_OF_ELASTICITY          0.000000E+000
+    POISSONS_RATIO                 0.000000E+000
+    THERMAL_DILATATION             0.000000E+000
+    ACTIVE_DESIGN_CODE             0
+};
+
+PropertyName = "EA95.FY";
+{
+    Category      = 0;
+    MaterialType  = 1;
+    DesignCode    = 7;
+    LabelString   = "mlbl_Yield_strength";
+    QuantityType  = 122;
+    OrderNumber   = 1;
+};
+
+PropertyName = "BS.ULTIMATE_STRENGTH";
+{
+    Category      = 0;
+    MaterialType  = 1;
+    DesignCode    = 3;
+    LabelString   = "mlbl_Ultimate_strength";
+    QuantityType  = 122;
+    OrderNumber   = 2;
+};
+
+PropertyName = "BS.YIELD_STRENGTH";
+{
+    Category      = 0;
+    MaterialType  = 1;
+    DesignCode    = 3;
+    LabelString   = "mlbl_Yield_strength";
+    QuantityType  = 122;
+    OrderNumber   = 1;
+};
+
+PropertyName = "EC3.STEEL_GRADE";
+{
+    Category      = 0;
+    MaterialType  = 1;
+    DesignCode    = 1;
+    LabelString   = "mlbl_Steel_grade";
+    QuantityType  = -2;
+    OrderNumber   = 5;
+};
+
+PropertyName = "EC3.FU_40_TO_100_MM";
+{
+    Category      = 0;
+    MaterialType  = 1;
+    DesignCode    = 1;
+    LabelString   = "mlbl_Ultima_strength__40_100_mm";
+    QuantityType  = 122;
+    OrderNumber   = 4;
+};
+
+PropertyName = "EC3.FU_UNDER_40_MM";
+{
+    Category      = 0;
+    MaterialType  = 1;
+    DesignCode    = 1;
+    LabelString   = "mlbl_Ultimate_strength___40_mm";
+    QuantityType  = 122;
+    OrderNumber   = 3;
+};
+
+PropertyName = "EC3.FY_40_TO_100_MM";
+{
+    Category      = 0;
+    MaterialType  = 1;
+    DesignCode    = 1;
+    LabelString   = "mlbl_Yield_strength__40_100_mm";
+    QuantityType  = 122;
+    OrderNumber   = 2;
+};
+
+PropertyName = "EC3.FY_UNDER_40_MM";
+{
+    Category      = 0;
+    MaterialType  = 1;
+    DesignCode    = 1;
+    LabelString   = "mlbl_Yield_strength___40_mm";
+    QuantityType  = 122;
+    OrderNumber   = 1;
+};
+

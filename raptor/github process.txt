@@ -1,0 +1,78 @@
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/ACET/Desktop/hjyrf/.git/
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git config user.name "sirisha"
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git config user.email "patchipalasirisha777@gmail.com"
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git remote add hmm "https://github.com/SirishaPatchipala/hmmm.git"
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git remote
+hmm
+siri
+sri
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git pull hmm master
+remote: Enumerating objects: 3, done.
+remote: Counting objects: 100% (3/3), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), done.
+From https://github.com/SirishaPatchipala/hmmm
+ * branch            master     -> FETCH_HEAD
+ * [new branch]      master     -> hmm/master
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git add --all
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git status
+On branch master
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   Leap Years.rap
+        new file:   Leap years & Even LP.rap
+        new file:   NATURAL.rap
+        new file:   first.rap
+        new file:   inputvalue.rap
+        new file:   leapyear.rap
+        new file:   nearestnymber.rap
+
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git commit -m
+error: switch `m' requires a value
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git commit -m "hai"
+[master 9cff24d] hai
+ 7 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 Leap Years.rap
+ create mode 100644 Leap years & Even LP.rap
+ create mode 100644 NATURAL.rap
+ create mode 100644 first.rap
+ create mode 100644 inputvalue.rap
+ create mode 100644 leapyear.rap
+ create mode 100644 nearestnymber.rap
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$ git push -u hmm master
+Enumerating objects: 10, done.
+Counting objects: 100% (10/10), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 8.47 KiB | 1.41 MiB/s, done.
+Total 9 (delta 6), reused 0 (delta 0)
+remote: Resolving deltas: 100% (6/6), done.
+To https://github.com/SirishaPatchipala/hmmm.git
+   7451d65..9cff24d  master -> master
+Branch 'master' set up to track remote branch 'master' from 'hmm'.
+
+ACET@DESKTOP-FMMBNDL MINGW64 ~/Desktop/hjyrf (master)
+$

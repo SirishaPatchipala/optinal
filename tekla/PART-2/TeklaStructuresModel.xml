@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TeklaStructuresModels>
+<TeklaStructuresModels>
+<Model>
+<Name>
+PART-2
+</Name>
+<Designer>
+Architect
+</Designer>
+<Description>
+
+</Description>
+<Version>
+19.0 Service Release 7
+</Version>
+<Language>
+enu
+</Language>
+<Template>
+
+</Template>
+<Environment>
+uk
+</Environment>
+<IsTemplate>
+FALSE
+</IsTemplate>
+<XS_PROJECT>
+
+</XS_PROJECT>
+<XS_FIRM>
+
+</XS_FIRM>
+<XS_SYSTEM>
+C:\ProgramData\Tekla Structures\19.0\\environments\uk\role\Steel_Detailer\;C:\ProgramData\Tekla Structures\19.0\\environments\uk\role\coldrolled\;C:\ProgramData\Tekla Structures\19.0\\environments\uk\system\;C:\ProgramData\Tekla Structures\19.0\\environme
+</XS_SYSTEM>
+</Model>
+</TeklaStructuresModels>
+
